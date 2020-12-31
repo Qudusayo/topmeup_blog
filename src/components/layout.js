@@ -18,8 +18,6 @@ const DefaultLayout = ({ children }) => (
             social {
               twitter
               facebook
-              linkedin
-              github
               email
             }
           }
