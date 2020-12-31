@@ -6,18 +6,15 @@
 
 *, *::after, *::before {
   box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 html {
   line-height: 1.5;
 }
 
-*{
-  'Source Sans Pro', sans-serif;
-}
-
 body {
-  'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: $body-color;
   background-color: #fbfbfb;
   margin: 0;
