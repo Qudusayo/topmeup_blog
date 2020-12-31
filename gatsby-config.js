@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `TopUpLab`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
+    description: `We offer instant recharge of Airtime, Data bundle,  Cable-TV (DStv, GOtv & Startimes) subscriptions, Electricity Bill Payment and many more.`,
     author: `TopUpLab`,
     siteUrl: `https://topuplab.com.ng`,
     social: {
