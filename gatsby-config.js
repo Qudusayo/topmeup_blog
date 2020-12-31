@@ -67,8 +67,8 @@ module.exports = {
         name: `Top Up Lab`,
         short_name: `TopUpLab`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#127EB1`,
+        theme_color: `#127EB1`,
         display: `minimal-ui`,
         icon: `./static/gatsby-icon.png`, // This path is relative to the root of the site.
       },

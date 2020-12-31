@@ -1,5 +1,5 @@
 ---
-title: How to make money on TopUpLab
+title: Making money on TopUpLab
 date: 2021-01-01 00:00:00 +0300
 description: # Add post description (optional)
 img: ./money.jpg # Making Cool Cash (optional)
@@ -15,8 +15,9 @@ If he has as little as 10 transactions per day, that will make him N650 or N1050
 Remember that this is for Data selling alone, imagine if Qudusayo was also retailing other products like Waec PINs, or Cable(DsTV subscriptions). He may be making N150,000 a month in profits. That is N5000 in profits everyday.  
 
 How do I get started and begin making money with this offer ? It's quite easy: 
-- Just register on [TopUpLab](topuplab.com.ng)  
-- Fund your wallet via card or transfer.  
-- Then you can buy data or other products for yourself or anyone else at anytime, any day.  
+- Register on [TopUpLab](topuplab.com.ng)  
+- Fund your wallet through Online payment or Bank transfer.  
+- Buy data or other products for yourself or anyone else at anytime, any day.
+- Start gaining and saving money  
 
 HAPPY TRANSACTION 
