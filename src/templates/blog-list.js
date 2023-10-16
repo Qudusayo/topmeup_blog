@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
 
+//Blog component starts here
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
